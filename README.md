@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jsmorales1415
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning K8s, Cloud deployment and distributed systems.
+- 🌱 I’m currently learning React, Flutter, K8s, Cloud deployment and distributed systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email: jsmorales1415@gmail.com
 
